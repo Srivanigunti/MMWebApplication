@@ -1,0 +1,23 @@
+h1{
+    font-family: Calibri;
+    font-size: 25pt;
+    fontstyle:normal;
+    font-weight: bold;
+    color: slateblue;
+    text-align: center;
+    text-decoration: underline
+}
+table{
+    font-family: Calibri;
+    color: white;
+    font-size: 11pt;
+    font-style: normal;
+    font-weight: bold;
+    background-color: springgreen;
+    border-collapse: collapse;
+    border: 2px solid navy
+}
+
+body{
+    background-image: url("12.jpg");
+}
